@@ -3,7 +3,7 @@
 This is a writing prompt that is really quite long so that we can see how well this actually displays when broken up and shown on the display. Enjoy writing today!
 Ummmmmm There once was a cat. Who was friends with a bat. But he could't fly. And then one day, he did. Now he's a crack addict living in bahstahn. 
 5
-6
+If you're seeing this, then the code worked. Nice job! Turns out now you know a little bit more about using and calling functions. That definitely makes the code a little bit cleaner. Come to think of it, we can probably do the same with the code that reads out to the display.
 7
 8
 9
